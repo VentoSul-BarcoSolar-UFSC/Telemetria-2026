@@ -1,5 +1,9 @@
 # MPU6050 — Telemetria 2026
 
+<p align="center">
+  <img src="./assets/mpu6050.png" width="500">
+</p>
+
 Módulo responsável pela leitura e processamento dos dados do sensor MPU6050.
 
 O MPU6050 possui um acelerômetro e um giroscópio de 3 eixos, permitindo medir aceleração e velocidade angular nos eixos X, Y e Z.
