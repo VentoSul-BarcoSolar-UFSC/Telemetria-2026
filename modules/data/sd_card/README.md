@@ -1,5 +1,9 @@
 # SD Card — Telemetria 2026
 
+<p align="center">
+  <img src="./assets/sdcard.png" width="500">
+</p>
+
 Módulo responsável por salvar os dados da telemetria em um cartão SD.
 
 O SD Card funciona como uma redundância dos dados enviados pela telemetria, mantendo uma cópia local das informações.
